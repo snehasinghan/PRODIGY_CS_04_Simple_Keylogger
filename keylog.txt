@@ -1,0 +1,14 @@
+ghdhfhnfnkfihdfihnkf
+
+[Key.esc]ghfghfhhf[Key.print_screen][Key.ctrl_l] ye 
+[Key.print_screen][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace][Key.backspace]
+[Key.backspace][Key.print_screen]hiiiii
+task 4
+[Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.right][Key.left][Key.left][Key.left][Key.left][Key.left][Key.down][Key.down][Key.up][Key.ctrl_l][Key.ctrl_l][Key.shift][Key.ctrl_l][Key.ctrl_l][Key.shift]python  [Key.shift_r]Keylogger.py
+aa[Key.shift][Key.shift]AA
+
+
+
+  [Key.ctrl_l][Key.ctrl_l]
+
+[Key.ctrl_l][Key.ctrl_l][Key.backspace][Key.backspace][Key.shift][Key.esc][Key.esc]
