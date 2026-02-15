@@ -34,4 +34,28 @@ The program keeps running and logging keys until the **ESC key** is pressed.
 
 ## ▶️ How to Run  
 
-1️⃣ Install required library:  
+1️. Install required library: 
+pip install pynput
+
+2. Run the program:
+   python keylogger.py
+
+3. Open keylog.txt to view logged keystrokes.
+
+Project Files:
+- keylogger.py
+- keylog.txt
+- README.md
+- .gitignore
+
+Ethical Note:
+This project is created strictly for educational purposes. Keyloggers can be misused for unauthorized monitoring. This tool should only be used in a controlled environment with proper permission. I do not support or promote any illegal or unethical use of this software.
+
+Learning Outcomes:
+- Real-time keyboard event handling
+- File handling in Python
+- Understanding of logging systems
+- Importance of ethical cybersecurity practices
+
+Developed by Sneha Kumari  
+Cyber Security Intern – Prodigy InfoTech
